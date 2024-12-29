@@ -1,0 +1,18 @@
+.slider {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+  }
+  .slider1 {
+    background-image: url("../../../assets/slider1.png");
+  }
+  .slider2 {
+    background-image: url("../../../assets/slider2.png");
+  }
+  .slider3 {
+    background-image: url("../../../assets/slider3.jpg");
+  }
